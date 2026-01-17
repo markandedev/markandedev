@@ -93,8 +93,14 @@ const gaurav = {
 
 <div align="center">
 
-[![Sketchidraw](https://github-readme-stats.vercel.app/api/pin/?username=markandedev&repo=sketchidraw&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1)](https://github.com/markandedev/sketchidraw)
+### Sketchidraw
+*A free, collaborative whiteboard with a hand-drawn aesthetic*
 
+<a href="https://sketchidraw.com">
+  <img src="https://raw.githubusercontent.com/markandedev/sketchidraw/main/apps/sketchidraw/public/images/Banner.png" alt="Sketchidraw" width="600" />
+</a>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/markandedev/sketchidraw)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-sketchidraw.com-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://sketchidraw.com)
 
 </div>
