@@ -18,12 +18,13 @@
 const gaurav = {
     location: "Gurugram, India",
     role: "Full Stack Developer",
+    experience: "3+ years with React & Next.js",
     startup: "Pixinity AI",
     building: ["Sketchidraw", "Pixinity AI"],
     motto: "Keep grinding 🚀"
 };
 ```
-🚀 Founder of [**Pixinity AI**](https://pixinityai.com) - AI-powered image generation & editing | ✍️ Writing on [**Medium**](https://medium.com/@markande_dev)
+💼 **3+ years** building production applications with React & Next.js | 🚀 Founder of [**Pixinity AI**](https://pixinityai.com) | ✍️ Writing on [**Medium**](https://medium.com/@markande_dev)
 
 ---
 
