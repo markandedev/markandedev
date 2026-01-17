@@ -71,7 +71,7 @@ const gaurav = {
 <div align="center">
 
 <a href="https://sketchidraw.com">
-  <img src="https://raw.githubusercontent.com/markandedev/sketchidraw/main/apps/sketchidraw/public/images/Banner.png" alt="Sketchidraw" width="550" />
+  <img src="https://raw.githubusercontent.com/markandedev/sketchidraw/main/apps/sketchidraw/public/images/og-image.png" alt="Sketchidraw" width="550" />
 </a>
 
 **Sketchidraw** - Free, collaborative whiteboard with hand-drawn aesthetic
