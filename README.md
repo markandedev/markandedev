@@ -14,6 +14,8 @@
 
 ---
 
+<img align="right" alt="Coding" width="280" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
 ```typescript
 const gaurav = {
     location: "Gurugram, India",
@@ -25,6 +27,8 @@ const gaurav = {
 };
 ```
 💼 **3+ years** building production applications with React & Next.js | 🚀 Founder of [**Pixinity AI**](https://pixinityai.com) | ✍️ Writing on [**Medium**](https://medium.com/@markande_dev)
+
+<br clear="both"/>
 
 ---
 
