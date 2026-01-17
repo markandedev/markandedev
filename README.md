@@ -7,8 +7,7 @@
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-markandedev-181717?style=for-the-badge&logo=github)](https://github.com/markandedev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-markandedev-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/markandedev)
-[![Twitter](https://img.shields.io/badge/Twitter-@GauravTiw1998-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/GauravTiw1998)
+[![Twitter](https://img.shields.io/badge/X-@markande__dev-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/markande_dev)
 
 </div>
 
@@ -20,15 +19,16 @@
 const gaurav = {
     location: "Gurugram, India",
     role: "Full Stack Developer",
-    focus: ["React Ecosystem", "Collaborative Tools", "Web Editors"],
-    currentlyBuilding: ["Sketchidraw", "Nextjs-Notion"],
+    focus: ["React Ecosystem", "Collaborative Tools", "AI Products"],
+    currentlyBuilding: ["Sketchidraw", "Pixinity AI"],
     motto: "Keep grinding 🚀"
 };
 ```
 
 <img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-- 🔭 Building **collaborative whiteboard** and **web editor** tools
+- 🔭 Building **collaborative whiteboard** tools and **AI-powered products**
+- 🚀 Founder of [**Pixinity AI**](https://pixinityai.com) - AI-powered image generation & editing tool
 - 🌱 Deep diving into **AI-assisted development**
 - 💡 Passionate about **clean code** and **great UX**
 - ⚡ Fun fact: I turn coffee into code
@@ -79,16 +79,7 @@ const gaurav = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=markandedev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=markandedev&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" />
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markandedev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1" />
-
-</div>
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=markandedev&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Snake animation](https://raw.githubusercontent.com/markandedev/markandedev/output/github-snake-dark.svg)
 
 </div>
 
@@ -99,7 +90,6 @@ const gaurav = {
 <div align="center">
 
 [![Sketchidraw](https://github-readme-stats.vercel.app/api/pin/?username=markandedev&repo=sketchidraw&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1)](https://github.com/markandedev/sketchidraw)
-[![Nextjs-Notion](https://github-readme-stats.vercel.app/api/pin/?username=markandedev&repo=nextjs-notion&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1)](https://github.com/markandedev/nextjs-notion)
 
 </div>
 
@@ -111,8 +101,9 @@ const gaurav = {
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gauravbpit1998@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-tiwari-a8b50a194/)
+[![Pixinity AI](https://img.shields.io/badge/Pixinity_AI-6366F1?style=for-the-badge&logo=rocket&logoColor=white)](https://pixinityai.com)
 
 <br/>
 
